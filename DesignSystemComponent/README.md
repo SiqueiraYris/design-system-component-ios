@@ -1,3 +1,3 @@
-# design-system-component-ios
+# DesignSystemComponent
 
 A description of this package.
